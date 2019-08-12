@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2b8578d-5616-442f-a3b5-33060c75c034" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/study/beverage/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/beverage/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/beverage/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/beverage/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/beverage/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/beverage/MainStarbuzzCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/beverage/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/beverage/Whip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/factory/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/factory/ChicagoStylePizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/factory/ClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/factory/NyStylePizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/factory/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/factory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/factory/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/factory/SimplePizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/factory/VeggiePizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Head-First-Design-Patterns-Learning/study/duck/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/duck/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/observer/sys/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/observer/sys/CurrentConditionsDisplay.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +26,51 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/study/factory/NyStylePizzaStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/study/factory/PizzaStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/study/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="450">
+                <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/study/factory/Pizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,15 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/study/duck/old/Duck.java" />
-        <option value="$PROJECT_DIR$/src/study/duck/old/RubberDuck.java" />
-        <option value="$PROJECT_DIR$/src/study/duck/one/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/src/study/duck/one/RedheadDuck.java" />
-        <option value="$PROJECT_DIR$/src/study/duck/two/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/src/study/duck/two/RedheadDuck.java" />
-        <option value="$PROJECT_DIR$/src/study/duck/one/Duck.java" />
-        <option value="$PROJECT_DIR$/src/study/duck/two/RubberDuck.java" />
-        <option value="$PROJECT_DIR$/src/study/duck/two/Duck.java" />
         <option value="$PROJECT_DIR$/src/study/duck/b/Duck.java" />
         <option value="$PROJECT_DIR$/src/study/duck/c/myinterface/Quackable.java" />
         <option value="$PROJECT_DIR$/src/study/duck/c/myinterface/Flyable.java" />
@@ -79,11 +114,9 @@
         <option value="$PROJECT_DIR$/src/study/observer/WeatherData.java" />
         <option value="$PROJECT_DIR$/src/study/observer/customize/WeatherData.java" />
         <option value="$PROJECT_DIR$/src/study/observer/sys/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/study/observer/sys/CurrentConditionsDisplay.java" />
         <option value="$PROJECT_DIR$/src/study/observer/sys/WeatherStation.java" />
         <option value="$PROJECT_DIR$/src/study/duck/README.md" />
         <option value="$PROJECT_DIR$/src/study/beverage/Decaf.java" />
-        <option value="$PROJECT_DIR$/src/study/README.md" />
         <option value="$PROJECT_DIR$/src/study/beverage/CondimentDecorator.java" />
         <option value="$PROJECT_DIR$/src/study/beverage/Espresso.java" />
         <option value="$PROJECT_DIR$/src/study/beverage/HouseBlend.java" />
@@ -93,6 +126,17 @@
         <option value="$PROJECT_DIR$/src/study/beverage/StarbuzzCoffee.java" />
         <option value="$PROJECT_DIR$/src/study/beverage/Beverage.java" />
         <option value="$PROJECT_DIR$/src/study/beverage/MainStarbuzzCoffee.java" />
+        <option value="$PROJECT_DIR$/src/study/observer/sys/CurrentConditionsDisplay.java" />
+        <option value="$PROJECT_DIR$/src/study/factory/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/study/factory/CheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/study/factory/ClamPizza.java" />
+        <option value="$PROJECT_DIR$/src/study/factory/PepperoniPizza.java" />
+        <option value="$PROJECT_DIR$/src/study/factory/VeggiePizza.java" />
+        <option value="$PROJECT_DIR$/src/study/factory/SimplePizzaFactory.java" />
+        <option value="$PROJECT_DIR$/src/study/factory/ChicagoStylePizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/study/factory/NyStylePizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/study/factory/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/study/README.md" />
       </list>
     </option>
   </component>
@@ -114,7 +158,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -134,14 +178,7 @@
               <item name="Head-First-Design-Patterns-Learning" type="58d84e3e:PackageViewProjectNode" />
               <item name="Head-First-Design-Patterns-Learning" type="616d4139:PackageViewModuleNode" />
               <item name="study" type="1f31426a:PackageElementNode" />
-              <item name="observer" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Head-First-Design-Patterns-Learning" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Head-First-Design-Patterns-Learning" type="616d4139:PackageViewModuleNode" />
-              <item name="study" type="1f31426a:PackageElementNode" />
-              <item name="observer" type="1f31426a:PackageElementNode" />
-              <item name="sys" type="1f31426a:PackageElementNode" />
+              <item name="factory" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -299,24 +336,27 @@
       <workItem from="1565362253651" duration="987000" />
       <workItem from="1565406800812" duration="4155000" />
       <workItem from="1565508990027" duration="6373000" />
-      <workItem from="1565528205259" duration="251000" />
+      <workItem from="1565528205259" duration="1143000" />
+      <workItem from="1565529894637" duration="10000" />
+      <workItem from="1565616352308" duration="5524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22873000" />
+    <option name="totallyTimeSpent" value="29299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14993565" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18597169" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,7 +364,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5704607" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5702703" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" />
@@ -336,47 +376,39 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18597169" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5702703" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/study/duck/one/RubberDuck.java" />
-    <entry file="file://$PROJECT_DIR$/src/study/duck/a/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/duck/a/RedheadDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/duck/b/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/duck/b/RedheadDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/duck/a/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/study/duck/b/RubberDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -517,13 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/observer/customize/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Observable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-63">
@@ -591,26 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/observer/sys/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -697,7 +702,102 @@
     <entry file="file://$PROJECT_DIR$/src/study/beverage/CondimentDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="57" />
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/observer/customize/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/observer/sys/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/factory/VeggiePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/factory/SimplePizzaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/factory/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/factory/ChicagoStylePizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/factory/ClamPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/factory/PepperoniPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/factory/NyStylePizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/factory/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/factory/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

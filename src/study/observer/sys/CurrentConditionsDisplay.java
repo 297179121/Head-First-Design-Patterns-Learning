@@ -1,7 +1,6 @@
 package study.observer.sys;
 
 import study.observer.customize.DisplayElement;
-
 import java.util.Observable;
 import java.util.Observer;
 
